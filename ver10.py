@@ -396,7 +396,7 @@ def main():
     try:
         # Initialize enhanced fuzzy elephant detector
         detector = FuzzyElephantDetector(
-            model_path='/Users/ravindupabasarakarunarathna/Documents/Self_Studies/fuzzy/Fuzzy/elephant_detection3/weights/best.pt',
+            model_path='path/to/best.pt',
             base_confidence=0.3
         )
 
