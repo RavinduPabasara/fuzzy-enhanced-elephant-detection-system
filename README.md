@@ -28,8 +28,8 @@ This project implements an advanced object detection system designed to locate w
 ## **Installation**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/fuzzy-elephant-detection.git  
-   cd fuzzy-elephant-detection  
+   git clone https://github.com/RavinduPabasara/fuzzy-enhanced-elephant-detection-system.git  
+   cd fuzzy-enhanced-elephant-detection-system
    ```  
 2. Install dependencies:  
    ```bash  
